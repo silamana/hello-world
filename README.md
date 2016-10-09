@@ -1,2 +1,2 @@
 # hello-world
-Pour démarrer
+Pour démarrer, je vais faire des essais sur Python
